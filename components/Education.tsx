@@ -10,7 +10,7 @@ interface EducationItem {
   score: string;
 }
 
-interface EducationProps {
+export interface EducationProps {
   items: EducationItem[];
 }
 

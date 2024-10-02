@@ -10,7 +10,7 @@ interface SkillItem {
   description: string;
 }
 
-interface SkillsProps {
+export interface SkillsProps {
   items: SkillItem[];
 }
 

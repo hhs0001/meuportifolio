@@ -14,7 +14,7 @@ interface ProjectItem {
   };
 }
 
-interface ProjectsProps {
+export interface ProjectsProps {
   items: ProjectItem[];
 }
 

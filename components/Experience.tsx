@@ -11,7 +11,7 @@ interface ExperienceItem {
   summary: string;
 }
 
-interface ExperienceProps {
+export interface ExperienceProps {
   items: ExperienceItem[];
 }
 

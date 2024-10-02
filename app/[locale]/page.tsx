@@ -3,24 +3,50 @@
 import { useEffect, useState } from "react";
 import { motion, useScroll, useSpring } from "framer-motion";
 import About from "@/components/About";
-import Experience from "@/components/Experience";
-import Education from "@/components/Education";
-import Skills from "@/components/Skills";
-import Projects from "@/components/Projects";
-import Footer from "@/components/Footer";
+import Experience, { ExperienceProps } from "@/components/Experience";
+import Education, { EducationProps } from "@/components/Education";
+import Skills, { SkillsProps } from "@/components/Skills";
+import Projects, { ProjectsProps } from "@/components/Projects";
+import Footer, { FooterProps } from "@/components/Footer";
 import { Spinner } from "@/components/ui/spinner";
 import AnimatedHeader from "@/components/AnimatedHeader";
 import { useTranslations } from "next-intl";
 
+interface Basics {
+  name: string;
+  label: string;
+  image: string;
+  email: string;
+  phone: string;
+  url: string;
+  summary: string;
+  location: string;
+  profiles: {
+    network: string;
+    username: string;
+    url: string;
+  }[];
+}
+
+interface Summary {
+  content: string;
+}
+
+interface Profile {
+  network: string;
+  username: string;
+  url: string;
+}
+
 interface ResumeData {
-  basics: any;
+  basics: Basics;
   sections: {
-    summary: { content: any };
-    experience: { items: any[] };
-    education: { items: any[] };
-    skills: { items: any[] };
-    projects: { items: any[] };
-    profiles: { items: any[] };
+    summary: Summary;
+    experience: ExperienceProps;
+    education: EducationProps;
+    skills: SkillsProps;
+    projects: ProjectsProps;
+    profiles: FooterProps;
   };
 }
 
@@ -87,7 +113,7 @@ export default function Home() {
           <Projects items={data.sections.projects.items} />
         </div>
       </main>
-      <Footer profiles={data.sections.profiles.items} />
+      <Footer items={data.sections.profiles.items} />
     </div>
   );
 }

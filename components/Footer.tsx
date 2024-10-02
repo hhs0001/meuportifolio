@@ -18,11 +18,11 @@ interface Profile {
   url: URL;
 }
 
-interface FooterProps {
-  profiles: Profile[];
+export interface FooterProps {
+  items: Profile[];
 }
 
-export default function Footer({ profiles }: FooterProps) {
+export default function Footer({ items }: FooterProps) {
   return (
     <motion.footer
       initial={{ y: 50, opacity: 0 }}
@@ -33,23 +33,23 @@ export default function Footer({ profiles }: FooterProps) {
       <div className="container mx-auto px-4">
         <Card className="bg-white/10 backdrop-blur-lg">
           <CardContent className="flex justify-center items-center p-6">
-            {profiles.map((profile) => {
-              const Icon = iconMap[profile.network] || <FaGithub />;
+            {items.map((items) => {
+              const Icon = iconMap[items.network] || <FaGithub />;
               return (
                 <Button
-                  key={profile.id}
+                  key={items.id}
                   variant="ghost"
                   size="icon"
                   asChild
                   className="hover:text-primary-foreground"
                 >
                   <a
-                    href={profile.url.href}
+                    href={items.url.href}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     {cloneElement(Icon, { className: "h-6 w-6" })}
-                    <span className="sr-only">{profile.network}</span>
+                    <span className="sr-only">{items.network}</span>
                   </a>
                 </Button>
               );
