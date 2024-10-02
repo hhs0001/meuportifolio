@@ -32,12 +32,6 @@ interface Summary {
   content: string;
 }
 
-interface Profile {
-  network: string;
-  username: string;
-  url: string;
-}
-
 interface ResumeData {
   basics: Basics;
   sections: {
