@@ -1,0 +1,421 @@
+{
+  "basics": {
+    "name": "Heitor Henrique Stein",
+    "headline": "Estagiário na área de engenharia da computação",
+    "email": "heitorstein@gmail.com",
+    "phone": "+5519999690183",
+    "location": "Campinas, SP, Brazil",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Sou estudante de engenharia da computação. Minha paixão por tecnologia e habilidades de programação me levam a buscar oportunidades de aprender e contribuir com projetos.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "da8zfgzv4beasrb3ha3o8mrq",
+          "visible": true,
+          "institution": "FACAMP - Faculdades de Campinas FACAMP - Faculdades de Campinas",
+          "studyType": "Bacharelado em Engenharia da Computação",
+          "area": "Engenharia da computação",
+          "score": "8.0",
+          "date": "02/2020 - 12/2024",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.facamp.com.br"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "nnna8ejpdl7m3ny0wk50ye70",
+          "visible": true,
+          "company": "Dell Technologies",
+          "position": "Parceria Acadêmica/Profissional - CITEC (Centro de Inovação e Tecnologia da FACAMP)",
+          "location": "Hortolândia, São Paulo, Brasil",
+          "date": "02/2023 - 12/2023",
+          "summary": "<p>Desenvolvimento de um software para um sinal luminoso para indicação no processo de Burn (Andon) com a Dell por meio da FACAMP.<br>Encarregado do back-end entre aplicação front-end e os sinais luminosos.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tk6w9v9tqo77pdeh19sm7dju",
+          "visible": true,
+          "company": "DHL",
+          "position": "Parceria acadêmica/profissional - CEAF (Centro de Engenharia Aplicada da FACAMP)",
+          "location": "Jundiaí, São Paulo, Brasil",
+          "date": "02/2023 - 12/2023",
+          "summary": "<p>Atualmente, estou colaborando com a DHL por meio de minha universidade, a FACAMP, em um projeto que visa eliminar o desperdício no processo de pacotes grandes (volumosos).<br>Encarregado na análise e parametrização dos dados além da documentação.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "qkgmj6cduuq1r0qvn8a40ykf",
+          "visible": true,
+          "name": "Inglês",
+          "description": "C1",
+          "level": 4
+        },
+        {
+          "id": "i07yyeb4b5j9c8xlzhsys2v5",
+          "visible": true,
+          "name": "Português",
+          "description": "Nativo",
+          "level": 5
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 4,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "e6cb713895d03yxy8ohlrngj",
+          "visible": true,
+          "network": "Linkedin",
+          "username": "heitor-stein",
+          "icon": "Linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/heitor-stein/"
+          }
+        },
+        {
+          "id": "wa522kjpn46y7sfrv5oxev2t",
+          "visible": true,
+          "network": "Instagram",
+          "username": "heitorhstein",
+          "icon": "Instagram",
+          "url": {
+            "label": "",
+            "href": "https://www.instagram.com/heitorhstein/"
+          }
+        },
+        {
+          "id": "gfqy6oawuui7u9fpjimiuonl",
+          "visible": true,
+          "network": "X",
+          "username": "heitorhstein",
+          "icon": "X",
+          "url": {
+            "label": "",
+            "href": "https://twitter.com/heitorhstein"
+          }
+        },
+        {
+          "id": "op2ahjicmvosknaqu9j24500",
+          "visible": true,
+          "network": "GitHub",
+          "username": "hhs0001",
+          "icon": "GitHub",
+          "url": {
+            "label": "",
+            "href": "https://github.com/hhs0001"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "npqvu96dgaspbbl0vortnsjg",
+          "visible": true,
+          "name": "METEORO",
+          "description": "Previsão do tempo usando IA",
+          "date": "October 23, 2023 - Present",
+          "summary": "<p>Desenvolvedor-chefe do projeto METEORO, um projeto que reúne estações meteorológicas feitas com ESPs para fazer previsões usando IA.</p><p>Tecnologias usadas:<br>Next.js 13, NextUI v2, Tailwind CSS, Tailwind Variants, TypeScript, Framer Motion, next-themes, MongoDB, ESP8266, leafletjs, ML5.js</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://github.com/freecorps/meteoro"
+          }
+        },
+        {
+          "id": "ageze3v5v9g2kfab3e71i3my",
+          "visible": true,
+          "name": "Core Library",
+          "description": "Desenvolvedor do projeto Core Library",
+          "date": "April 30, 2023 - May 28, 2023",
+          "summary": "<p>Este projeto tem como objetivo desenvolver uma biblioteca on-line para gerenciar o empréstimo e a devolução de livros, permitindo o acesso de bibliotecários e usuários registrados. O projeto usa a estrutura Next.js para o front-end e o AppWrite como back-end.<br><br>Tecnologias usadas:<br>Next.js 13, NextUI v2, Tailwind CSS, Tailwind Variants, TypeScript, Framer Motion, next-themes, AppWrite</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://github.com/freecorps/corelibrary/"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "iztvazh6c2l3ppwv765u2czw",
+          "visible": true,
+          "name": "React",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "ou3e21x9nud3x6lyiky18rbg",
+          "visible": true,
+          "name": "Next.js",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "gevhlba7azwe371o5ce3v841",
+          "visible": true,
+          "name": "MongoDB",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "bsucy6ae7kr2qcv1o6tzgkeq",
+          "visible": true,
+          "name": "C",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "ulaf8ldg7yigvd0kz4efrabd",
+          "visible": true,
+          "name": "Java",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "dccggqaa51w5tax1bbu7hp7t",
+          "visible": true,
+          "name": "TypeScript",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "e59gmt68lf4ztlz36vusopii",
+          "visible": true,
+          "name": "Node.js",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "aabiijz9xgofc1knx1ifh4uw",
+          "visible": true,
+          "name": "SQL",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "l6uuw4bk79ovyxji9p6ayk8v",
+          "visible": true,
+          "name": "Tensorflow",
+          "description": "",
+          "level": 1,
+          "keywords": []
+        },
+        {
+          "id": "teea7rilsbpaq7ga8rd154jy",
+          "visible": true,
+          "name": "CSS",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "ukhvn3xrt50gj0opv748qoqq",
+          "visible": true,
+          "name": "HTML",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "di6ir1swgbi1bdu8wl4sf0pb",
+          "visible": true,
+          "name": "Vue.js",
+          "description": "",
+          "level": 1,
+          "keywords": []
+        },
+        {
+          "id": "srkwmy9ea7f6u0vdo61idsdc",
+          "visible": true,
+          "name": "Python",
+          "description": "",
+          "level": 2,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "pikachu",
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13.7
+      },
+      "lineHeight": 1.1,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}

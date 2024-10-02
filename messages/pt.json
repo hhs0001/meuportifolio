@@ -1,0 +1,22 @@
+{
+    "home": {
+        "title": "Home",
+        "welcome": "Bem-vindo à página inicial",
+        "resumeUrl": "locales/pt/resume.json",
+        "loading": "Carregando..."
+    },
+    "about": {
+        "aboutMe": "Sobre mim"
+    },
+    "education": {
+        "title": "Educação",
+        "score": "Nota"
+    },
+    "experience": {
+        "title": "Experiência"
+    },
+    "projects": {
+        "title": "Projetos",
+        "button": "Ver mais"
+    }
+}

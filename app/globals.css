@@ -12,6 +12,10 @@ body {
   }
 }
 
+.mt-screen {
+  margin-top: 100vh;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
