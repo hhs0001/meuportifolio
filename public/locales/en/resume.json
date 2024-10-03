@@ -222,7 +222,7 @@
           "visible": true,
           "name": "METEORO",
           "description": "Weather prediction using AI",
-          "date": "October 23, 2023 - Present",
+          "date": "August 21, 2023 - October 4, 2023",
           "summary": "<p>Chief developer of the METEORO project, a project that brings together weather stations made with ESPs to make predictions using AI.</p>",
           "keywords": [],
           "url": {
@@ -241,6 +241,25 @@
           "url": {
             "label": "",
             "href": "https://github.com/freecorps/corelibrary/"
+          }
+        },
+        {
+          "id": "pxmfhn9kc0r3dj0u1f2wmdey",
+          "visible": true,
+          "name": "SensorHub",
+          "description": "Chief developer of the SensorHub project",
+          "date": "September 15, 2024 - Present",
+          "summary": "<p>SensorHub is a Next.js application for managing and visualizing sensor data. It uses TypeScript, Supabase for backend services, Framer Motion for animations, and shadcn/ui for UI components.</p>",
+          "keywords": [
+            "Next.js",
+            "TypeScript",
+            "Supabase",
+            "Framer Motion",
+            "shadcn/ui"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://sensorhub.freecorps.xyz/"
           }
         }
       ]

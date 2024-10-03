@@ -209,7 +209,7 @@
           "visible": true,
           "name": "METEORO",
           "description": "Previsão do tempo usando IA",
-          "date": "October 23, 2023 - Present",
+          "date": "August 21, 2023 - October 4, 2023",
           "summary": "<p>Desenvolvedor-chefe do projeto METEORO, um projeto que reúne estações meteorológicas feitas com ESPs para fazer previsões usando IA.</p><p>Tecnologias usadas:<br>Next.js 13, NextUI v2, Tailwind CSS, Tailwind Variants, TypeScript, Framer Motion, next-themes, MongoDB, ESP8266, leafletjs, ML5.js</p>",
           "keywords": [],
           "url": {
@@ -228,6 +228,25 @@
           "url": {
             "label": "",
             "href": "https://github.com/freecorps/corelibrary/"
+          }
+        },
+        {
+          "id": "lvuxmh1plz00ed6zo3frfp25",
+          "visible": true,
+          "name": "SensorHub",
+          "description": "Desenvolvedor-chefe do projeto SensorHub",
+          "date": "September 15, 2024 - Present",
+          "summary": "<p>SensorHub is a Next.js application for managing and visualizing sensor data. It uses TypeScript, Supabase for backend services, Framer Motion for animations, and shadcn/ui for UI components.</p>",
+          "keywords": [
+            "Next.js",
+            "TypeScript",
+            "Supabase",
+            "Framer Motion",
+            "shadcn/ui"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://sensorhub.freecorps.xyz/"
           }
         }
       ]
