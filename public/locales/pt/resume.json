@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Heitor Henrique Stein",
-    "headline": "Estagiário na área de engenharia da computação",
-    "email": "heitorstein@gmail.com",
+    "headline": "Engenheiro da computação",
+    "email": "contato@heitorstein.com.br",
     "phone": "+5519999690183",
     "location": "Campinas, SP, Brazil",
     "url": {
@@ -29,7 +29,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>Sou estudante de engenharia da computação. Minha paixão por tecnologia e habilidades de programação me levam a buscar oportunidades de aprender e contribuir com projetos.</p>"
+      "content": "<p>Sou formado em engenharia da computação. Minha paixão por tecnologia e habilidades de programação me levam a buscar oportunidades de aprender e contribuir com projetos.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -97,7 +97,7 @@
           "position": "Parceria acadêmica/profissional - CEAF (Centro de Engenharia Aplicada da FACAMP)",
           "location": "Jundiaí, São Paulo, Brasil",
           "date": "02/2023 - 12/2023",
-          "summary": "<p>Atualmente, estou colaborando com a DHL por meio de minha universidade, a FACAMP, em um projeto que visa eliminar o desperdício no processo de pacotes grandes (volumosos).<br>Encarregado na análise e parametrização dos dados além da documentação.</p>",
+          "summary": "<p>Colaborei com a DHL por meio de minha universidade, a FACAMP, em um projeto que visa eliminar o desperdício no processo de pacotes grandes (volumosos).<br>Encarregado na análise e parametrização dos dados além da documentação.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -109,8 +109,8 @@
           "company": "TTMS Technologies",
           "position": "Software Development Intern",
           "location": "Campinas, São Paulo, Brasil",
-          "date": "03/2024 - Present",
-          "summary": "",
+          "date": "03/2024 - 10/2024",
+          "summary": "<p>Como estagiário de Frontend, atuei no desenvolvimento e manutenção de interfaces de usuário utilizando React. Fui responsável por implementar componentes reutilizáveis e garantir uma experiência de usuário fluida e responsiva. Utilizei o MUI (Material UI) para criar layouts consistentes e modernos, além de integrar funcionalidades que atendiam às necessidades do projeto. Trabalhei com Git para versionamento de código, colaborando com a equipe de desenvolvimento e mantendo um fluxo de trabalho eficiente. Além disso, participei da análise de requisitos e contribuí para a melhoria contínua do desempenho e da usabilidade das aplicações.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -169,7 +169,7 @@
           "visible": true,
           "network": "Linkedin",
           "username": "heitor-stein",
-          "icon": "Linkedin",
+          "icon": "linkedin",
           "url": {
             "label": "",
             "href": "https://www.linkedin.com/in/heitor-stein/"
@@ -419,7 +419,7 @@
       ]
     ],
     "css": {
-      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
       "visible": false
     },
     "page": {
