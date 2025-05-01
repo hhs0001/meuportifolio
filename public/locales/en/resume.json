@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Heitor Henrique Stein",
-    "headline": "Intern in the computer engineering field",
-    "email": "heitorstein@gmail.com",
+    "headline": "Computer Engineering",
+    "email": "contato@heitorstein.com.br",
     "phone": "+5519999690183",
     "location": "Campinas, SP, Brazil",
     "url": {
@@ -29,7 +29,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>I'm a computer engineering student. My passion for technology and programming skills drive me to seek out opportunities to learn and contribute to projects.</p>"
+      "content": "<p>I have a degree in computer engineering. My passion for technology and programming skills leads me to seek out opportunities to learn and contribute to projects.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -84,7 +84,7 @@
           "position": "Academic/Professional Partnership - CITEC (FACAMP Innovation and Technology Center)",
           "location": "Hortolândia, São Paulo, Brasil",
           "date": "02/2023 - 12/2023",
-          "summary": "<p>Developing a software for a Light Signal for burn indication (Andon) with Dell through FACAMP</p>",
+          "summary": "<p>Development of software for an illuminated sign for indication in the Burn (Andon) process with Dell through FACAMP.</p><p>In charge of the back-end between the front-end application and the illuminated signs.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -97,7 +97,7 @@
           "position": "Academic/professional partnership - CEAF (FACAMP Applied Engineering Center)",
           "location": "Jundiaí, São Paulo, Brasil",
           "date": "02/2023 - 12/2023",
-          "summary": "<p>I'm currently collaborating with DHL through my university, FACAMP, on a project that aims to eliminate waste in the process of large (bulky) packages.</p>",
+          "summary": "<p>I collaborated with DHL through my university, FACAMP, on a project aimed at eliminating waste in the process of large (bulky) packages.</p><p>In charge of data analysis and parameterization, as well as documentation.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -109,8 +109,8 @@
           "company": "TTMS Technologies",
           "position": "Software Development Intern",
           "location": "Campinas, São Paulo, Brasil",
-          "date": "03/2024 - Present",
-          "summary": "",
+          "date": "03/2024 - 10/2024",
+          "summary": "<p>As a Frontend Intern, I worked on developing and maintaining user interfaces using React. I was responsible for implementing reusable components and ensuring a fluid and responsive user experience. I used MUI (Material UI) to create consistent and modern layouts, as well as integrating functionalities that met the project's needs. I worked with Git for code versioning, collaborating with the development team and maintaining an efficient workflow. I also took part in requirements analysis and contributed to the continuous improvement of application performance and usability.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -419,7 +419,7 @@
       ]
     ],
     "css": {
-      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
       "visible": false
     },
     "page": {
