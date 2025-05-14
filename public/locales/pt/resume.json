@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Heitor Henrique Stein",
-    "headline": "Engenheiro da computação",
+    "headline": "Engenharia da computação",
     "email": "contato@heitorstein.com.br",
     "phone": "+5519999690183",
     "location": "Campinas, SP, Brazil",
@@ -29,7 +29,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>Sou formado em engenharia da computação. Minha paixão por tecnologia e habilidades de programação me levam a buscar oportunidades de aprender e contribuir com projetos.</p>"
+      "content": "<p>Sou formado em engenharia da computação. Minha paixão por tecnologia e habilidades de programação me leva a buscar oportunidades de aprender e contribuir com projetos.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -45,7 +45,20 @@
       "separateLinks": true,
       "visible": true,
       "id": "certifications",
-      "items": []
+      "items": [
+        {
+          "id": "khdgvt1nt2z1ibap5mtlipe5",
+          "visible": true,
+          "name": " EF SET English Certificate",
+          "issuer": "EF SET",
+          "date": "April 2025",
+          "summary": "<p>O nível alcançado é 65/100 na escala de pontuação da EF SET e C1 Advanced de acordo com o Quadro Europeu Comum de Referência (CEFR). A pontuação EF SET é calculada como uma média das pontuações das seções de habilidades.</p>",
+          "url": {
+            "label": "",
+            "href": "https://cert.efset.org/M6iuo1"
+          }
+        }
+      ]
     },
     "education": {
       "name": "Education",
@@ -84,7 +97,7 @@
           "position": "Parceria Acadêmica/Profissional - CITEC (Centro de Inovação e Tecnologia da FACAMP)",
           "location": "Hortolândia, São Paulo, Brasil",
           "date": "02/2023 - 12/2023",
-          "summary": "<p>Desenvolvimento de um software para um sinal luminoso para indicação no processo de Burn (Andon) com a Dell por meio da FACAMP.<br>Encarregado do back-end entre aplicação front-end e os sinais luminosos.</p>",
+          "summary": "<p>Desenvolvimento de software para letreiro luminoso para indicação no processo de Burn (Andon) com a Dell através da FACAMP.</p><p>Responsável pelo back-end entre o aplicativo front-end e os letreiros luminosos.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -97,20 +110,20 @@
           "position": "Parceria acadêmica/profissional - CEAF (Centro de Engenharia Aplicada da FACAMP)",
           "location": "Jundiaí, São Paulo, Brasil",
           "date": "02/2023 - 12/2023",
-          "summary": "<p>Colaborei com a DHL por meio de minha universidade, a FACAMP, em um projeto que visa eliminar o desperdício no processo de pacotes grandes (volumosos).<br>Encarregado na análise e parametrização dos dados além da documentação.</p>",
+          "summary": "<p>Colaborei com a DHL por meio de minha universidade, a FACAMP, em um projeto destinado a eliminar o desperdício no processo de pacotes grandes (volumosos).</p><p>Responsável pela análise e parametrização de dados, bem como pela documentação.</p>",
           "url": {
             "label": "",
             "href": ""
           }
         },
         {
-          "id": "hhp3l925bu0poslf7m8qb3nw",
+          "id": "hc0cs1c2mto32koztfz1x1fk",
           "visible": true,
           "company": "TTMS Technologies",
           "position": "Software Development Intern",
           "location": "Campinas, São Paulo, Brasil",
           "date": "03/2024 - 10/2024",
-          "summary": "<p>Como estagiário de Frontend, atuei no desenvolvimento e manutenção de interfaces de usuário utilizando React. Fui responsável por implementar componentes reutilizáveis e garantir uma experiência de usuário fluida e responsiva. Utilizei o MUI (Material UI) para criar layouts consistentes e modernos, além de integrar funcionalidades que atendiam às necessidades do projeto. Trabalhei com Git para versionamento de código, colaborando com a equipe de desenvolvimento e mantendo um fluxo de trabalho eficiente. Além disso, participei da análise de requisitos e contribuí para a melhoria contínua do desempenho e da usabilidade das aplicações.</p>",
+          "summary": "<p>Como estagiário de front-end, trabalhei no desenvolvimento e na manutenção de interfaces de usuário usando React. Fui responsável por implementar componentes reutilizáveis e garantir uma experiência de usuário fluida e responsiva. Usei o MUI (Material UI) para criar layouts consistentes e modernos, além de integrar funcionalidades que atendiam às necessidades do projeto. Trabalhei com o Git para o controle de versão do código, colaborando com a equipe de desenvolvimento e mantendo um fluxo de trabalho eficiente. Também participei da análise de requisitos e contribuí para a melhoria contínua do desempenho e da usabilidade do aplicativo.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -144,14 +157,14 @@
         {
           "id": "qkgmj6cduuq1r0qvn8a40ykf",
           "visible": true,
-          "name": "Inglês",
+          "name": "English",
           "description": "C1",
-          "level": 4
+          "level": 3
         },
         {
           "id": "i07yyeb4b5j9c8xlzhsys2v5",
           "visible": true,
-          "name": "Português",
+          "name": "Portuguese",
           "description": "Nativo",
           "level": 5
         }
@@ -159,7 +172,7 @@
     },
     "profiles": {
       "name": "Profiles",
-      "columns": 4,
+      "columns": 1,
       "separateLinks": true,
       "visible": true,
       "id": "profiles",
@@ -222,8 +235,8 @@
           "visible": true,
           "name": "METEORO",
           "description": "Previsão do tempo usando IA",
-          "date": "August 21, 2023 - October 4, 2023",
-          "summary": "<p>Desenvolvedor-chefe do projeto METEORO, um projeto que reúne estações meteorológicas feitas com ESPs para fazer previsões usando IA.</p><p>Tecnologias usadas:<br>Next.js 13, NextUI v2, Tailwind CSS, Tailwind Variants, TypeScript, Framer Motion, next-themes, MongoDB, ESP8266, leafletjs, ML5.js</p>",
+          "date": "21 de agosto de 2023 - 4 de outubro de 2023",
+          "summary": "<p>Desenvolvedor-chefe do projeto METEORO, um projeto que reúne estações meteorológicas feitas com ESPs para fazer previsões usando IA.</p>",
           "keywords": [],
           "url": {
             "label": "",
@@ -235,8 +248,8 @@
           "visible": true,
           "name": "Core Library",
           "description": "Desenvolvedor do projeto Core Library",
-          "date": "April 30, 2023 - May 28, 2023",
-          "summary": "<p>Este projeto tem como objetivo desenvolver uma biblioteca on-line para gerenciar o empréstimo e a devolução de livros, permitindo o acesso de bibliotecários e usuários registrados. O projeto usa a estrutura Next.js para o front-end e o AppWrite como back-end.<br><br>Tecnologias usadas:<br>Next.js 13, NextUI v2, Tailwind CSS, Tailwind Variants, TypeScript, Framer Motion, next-themes, AppWrite</p>",
+          "date": "30 de abril de 2023 - 28 de maio de 2023",
+          "summary": "<p>Este projeto tem como objetivo desenvolver uma biblioteca on-line para gerenciar o empréstimo e a devolução de livros, permitindo o acesso tanto de bibliotecários quanto de usuários registrados. O projeto usa a estrutura Next.js para o front-end e o AppWrite como back-end.</p>",
           "keywords": [],
           "url": {
             "label": "",
@@ -244,11 +257,11 @@
           }
         },
         {
-          "id": "lvuxmh1plz00ed6zo3frfp25",
+          "id": "pxmfhn9kc0r3dj0u1f2wmdey",
           "visible": true,
           "name": "SensorHub",
-          "description": "Desenvolvedor-chefe do projeto SensorHub",
-          "date": "September 15, 2024 - Present",
+          "description": "Chief developer of the SensorHub project",
+          "date": "15 de setembro de 2024 - 14 de maio de 2025",
           "summary": "<p>SensorHub is a Next.js application for managing and visualizing sensor data. It uses TypeScript, Supabase for backend services, Framer Motion for animations, and shadcn/ui for UI components.</p>",
           "keywords": [
             "Next.js",
@@ -259,7 +272,24 @@
           ],
           "url": {
             "label": "",
-            "href": "https://sensorhub.freecorps.xyz/"
+            "href": "https://github.com/freecorps/SensorHub"
+          }
+        },
+        {
+          "id": "wbtt3f3qwm6o1d11i3l7kwa7",
+          "visible": true,
+          "name": "Phasmo Helper",
+          "description": "Ferramenta de desktop para ajudar os jogadores do Phasmophobia a rastrear evidências, cronômetros e estatísticas. Desenvolvido com Tauri, React e TypeScript.",
+          "date": "12 de abril de 2025 - Presente",
+          "summary": "<p>O Phasmo Helper foi desenvolvido para ajudar os jogadores do Phasmophobia a ter uma experiência mais completa e eficiente durante as investigações paranormais. Com ferramentas intuitivas e informações detalhadas, nós o ajudamos a identificar fantasmas, planejar estratégias e sobreviver ao sobrenatural.</p><p>Esse aplicativo de código aberto foi criado com Tauri, React e TypeScript, proporcionando uma experiência rápida e nativa para Windows.</p>",
+          "keywords": [
+            "Tauri",
+            "React",
+            "TypeScript"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/hhs0001/phasmo-helper"
           }
         }
       ]
@@ -332,7 +362,7 @@
           "visible": true,
           "name": "TypeScript",
           "description": "",
-          "level": 3,
+          "level": 2,
           "keywords": []
         },
         {
@@ -340,7 +370,7 @@
           "visible": true,
           "name": "Node.js",
           "description": "",
-          "level": 3,
+          "level": 2,
           "keywords": []
         },
         {
@@ -442,7 +472,7 @@
         "variants": [
           "regular"
         ],
-        "size": 13.7
+        "size": 14
       },
       "lineHeight": 1.1,
       "hideIcons": false,
