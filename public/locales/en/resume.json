@@ -45,7 +45,20 @@
       "separateLinks": true,
       "visible": true,
       "id": "certifications",
-      "items": []
+      "items": [
+        {
+          "id": "khdgvt1nt2z1ibap5mtlipe5",
+          "visible": true,
+          "name": " EF SET English Certificate",
+          "issuer": "EF SET",
+          "date": "April 2025",
+          "summary": "<p>The achieved level is <strong>65/100</strong> on the EF SET score scale and <strong>C1 Advanced</strong> according to the Common European Framework of Reference (CEFR). The EF SET score is calculated as an average of the skill section scores.</p>",
+          "url": {
+            "label": "",
+            "href": "https://cert.efset.org/M6iuo1"
+          }
+        }
+      ]
     },
     "education": {
       "name": "Education",
@@ -169,7 +182,7 @@
           "visible": true,
           "network": "Linkedin",
           "username": "heitor-stein",
-          "icon": "Linkedin",
+          "icon": "linkedin",
           "url": {
             "label": "",
             "href": "https://www.linkedin.com/in/heitor-stein/"
@@ -248,7 +261,7 @@
           "visible": true,
           "name": "SensorHub",
           "description": "Chief developer of the SensorHub project",
-          "date": "September 15, 2024 - Present",
+          "date": "September 15, 2024 - May 14, 2025",
           "summary": "<p>SensorHub is a Next.js application for managing and visualizing sensor data. It uses TypeScript, Supabase for backend services, Framer Motion for animations, and shadcn/ui for UI components.</p>",
           "keywords": [
             "Next.js",
@@ -259,7 +272,24 @@
           ],
           "url": {
             "label": "",
-            "href": "https://sensorhub.freecorps.xyz/"
+            "href": "https://github.com/freecorps/SensorHub"
+          }
+        },
+        {
+          "id": "wbtt3f3qwm6o1d11i3l7kwa7",
+          "visible": true,
+          "name": "Phasmo Helper",
+          "description": "Desktop tool to help Phasmophobia players with evidence tracking, timers and statistics. Developed with Tauri, React and TypeScript.",
+          "date": "April 12, 2025 - Present",
+          "summary": "<p>Phasmo Helper was developed to help Phasmophobia players have a more complete and efficient experience during paranormal investigations. With intuitive tools and detailed information, we help you identify ghosts, plan strategies and survive the supernatural.</p><p>This open source application was created with Tauri, React and TypeScript, providing a fast and native experience for Windows.</p>",
+          "keywords": [
+            "Tauri",
+            "React",
+            "TypeScript"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/hhs0001/phasmo-helper"
           }
         }
       ]
